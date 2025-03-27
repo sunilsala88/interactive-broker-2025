@@ -11,7 +11,7 @@ ib.connect('127.0.0.1', 7497, clientId=1)
 
 
 
-def fetch_historical_data(contract, start_date, end_date, months_per_batch=1):
+def fetch_historical_data(contract, start_date, end_date, months_per_batch=12):
     """
     Fetch historical data for a given contract between start_date and end_date in 2-month intervals.
     """
@@ -22,13 +22,13 @@ def fetch_historical_data(contract, start_date, end_date, months_per_batch=1):
     
     while start_date < current_end_date:
         end_date_str = current_end_date.strftime("%Y%m%d %H:%M:%S")
-        ib.reqhist
+        # ib.reqhist
         bars = ib.reqHistoricalData(
             contract,
             endDateTime=end_date_str,
             durationStr=f'{months_per_batch} M',
-            barSizeSetting='1 min',
-            whatToShow='TRADES',
+            barSizeSetting='1 hour',
+            whatToShow='MIDPOINT',
             useRTH=True
         )
         print(util.df(bars))
@@ -42,12 +42,15 @@ def fetch_historical_data(contract, start_date, end_date, months_per_batch=1):
 
 
 # contract = Index('NIFTY50','NSE','INR')
-contract=Stock('TSLA','SMART','USD')
-start_date = dt.datetime.now() - dt.timedelta(days=100)
+# contract=Stock('TSLA','SMART','USD')
+name='EURUSD'
+days=2000
+contract=Forex(name)
+start_date = dt.datetime.now() - dt.timedelta(days=days)
 end_date = dt.datetime.now()
 
 data = fetch_historical_data(contract, start_date, end_date)
 df=util.df(data)
 print(df)
-df.to_csv('data.csv')
+df.to_csv(f'{name}.csv')
 
