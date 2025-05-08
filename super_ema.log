@@ -1,0 +1,515 @@
+2025-04-24 18:36:37,462 - strategy started
+2025-04-24 18:36:38,574 - Checking if start time has been reached
+2025-04-24 18:36:38,575 - Starting the main code
+2025-04-24 18:36:38,575 - Starting the main code with candle size60
+2025-04-24 18:36:58,852 - strategy started
+2025-04-24 18:36:59,992 - Checking if start time has been reached
+2025-04-24 18:36:59,992 - Starting the main code
+2025-04-24 18:36:59,992 - Starting the main code with candle size60
+2025-04-24 18:37:02,053 - Fetched order_df and position_df
+2025-04-24 18:37:45,083 - strategy started
+2025-04-24 18:37:47,177 - Checking if start time has been reached
+2025-04-24 18:37:47,177 - Starting the main code
+2025-04-24 18:37:47,178 - Starting the main code with candle size60
+2025-04-24 18:38:01,255 - Fetched order_df and position_df
+2025-04-24 18:39:01,516 - Fetched order_df and position_df
+2025-04-24 18:41:12,235 - strategy started
+2025-04-24 18:41:13,523 - Checking if start time has been reached
+2025-04-24 18:41:13,523 - Starting the main code
+2025-04-24 18:41:13,523 - Starting the main code with candle size60
+2025-04-24 18:42:01,950 - Fetched order_df and position_df
+2025-04-24 18:42:01,960 - TSLA
+2025-04-24 18:42:49,153 - strategy started
+2025-04-24 18:42:50,273 - Checking if start time has been reached
+2025-04-24 18:42:50,273 - Starting the main code
+2025-04-24 18:42:50,273 - Starting the main code with candle size60
+2025-04-24 18:43:01,346 - Fetched order_df and position_df
+2025-04-24 18:43:01,346 - TSLA
+2025-04-24 18:43:35,019 - strategy started
+2025-04-24 18:44:31,584 - strategy started
+2025-04-24 18:44:45,538 - strategy started
+2025-04-24 18:44:48,333 - Checking if start time has been reached
+2025-04-24 18:44:48,333 - Starting the main code
+2025-04-24 18:44:48,334 - Starting the main code with candle size60
+2025-04-24 18:45:44,882 - strategy started
+2025-04-24 18:45:47,221 - Checking if start time has been reached
+2025-04-24 18:45:47,221 - Starting the main code
+2025-04-24 18:45:47,221 - Starting the main code with candle size60
+2025-04-24 18:46:01,292 - Fetched order_df and position_df
+2025-04-24 18:46:01,293 - TSLA
+2025-04-24 18:46:02,981 - NVDA
+2025-04-24 18:46:05,161 - GOOG
+2025-04-24 18:46:44,117 - strategy started
+2025-04-24 18:46:46,984 - Checking if start time has been reached
+2025-04-24 18:46:46,985 - Starting the main code
+2025-04-24 18:46:46,985 - Starting the main code with candle size60
+2025-04-24 18:47:01,236 - Fetched order_df and position_df
+2025-04-24 18:47:01,237 - TSLA
+2025-04-24 18:47:03,090 - NVDA
+2025-04-24 18:47:04,844 - GOOG
+2025-04-24 18:47:58,616 - strategy started
+2025-04-24 18:48:01,205 - Checking if start time has been reached
+2025-04-24 18:48:01,205 - Starting the main code
+2025-04-24 18:48:01,205 - Starting the main code with candle size60
+2025-04-24 18:48:01,213 - Fetched order_df and position_df
+2025-04-24 18:48:01,213 - TSLA
+2025-04-24 18:48:02,645 - Checking condition
+2025-04-24 18:48:02,646 - NVDA
+2025-04-24 18:48:03,856 - Checking condition
+2025-04-24 18:48:03,856 - GOOG
+2025-04-24 18:48:05,346 - Checking condition
+2025-04-24 18:49:01,715 - Fetched order_df and position_df
+2025-04-24 18:49:01,717 - TSLA
+2025-04-24 18:49:03,356 - Checking condition
+2025-04-24 18:49:03,359 - NVDA
+2025-04-24 18:49:05,202 - Checking condition
+2025-04-24 18:49:05,202 - GOOG
+2025-04-24 18:49:06,509 - Checking condition
+2025-04-24 18:50:02,090 - Fetched order_df and position_df
+2025-04-24 18:50:02,092 - TSLA
+2025-04-24 18:50:03,650 - Checking condition
+2025-04-24 18:50:03,650 - NVDA
+2025-04-24 18:50:05,149 - Checking condition
+2025-04-24 18:50:05,149 - GOOG
+2025-04-24 18:50:06,647 - Checking condition
+2025-04-24 18:59:16,392 - strategy started
+2025-04-24 18:59:19,309 - Checking if start time has been reached
+2025-04-24 18:59:19,309 - Starting the main code
+2025-04-24 18:59:19,309 - Starting the main code with candle size60
+2025-04-24 19:00:01,580 - Fetched order_df and position_df
+2025-04-24 19:00:01,582 - TSLA
+2025-04-24 19:00:08,652 - Checking condition
+2025-04-24 19:00:08,668 - NVDA
+2025-04-24 19:00:12,591 - Checking condition
+2025-04-24 19:00:12,592 - GOOG
+2025-04-24 19:00:14,621 - Checking condition
+2025-05-08 18:21:17,355 - strategy started
+2025-05-08 18:21:21,091 - Checking if start time has been reached
+2025-05-08 18:31:08,181 - strategy started
+2025-05-08 18:31:09,506 - Checking if start time has been reached
+2025-05-08 18:31:09,506 - Starting the main code
+2025-05-08 18:31:09,506 - Starting the main code with candle size60
+2025-05-08 18:32:01,723 - Fetched order_df and position_df
+2025-05-08 18:32:01,724 - TSLA
+2025-05-08 18:32:03,316 - Checking condition
+2025-05-08 18:32:03,316 - we dont have any position
+2025-05-08 18:32:03,316 - inside strategy
+2025-05-08 18:32:39,749 - strategy started
+2025-05-08 18:32:40,872 - Checking if start time has been reached
+2025-05-08 18:32:40,872 - Starting the main code
+2025-05-08 18:32:40,872 - Starting the main code with candle size60
+2025-05-08 18:33:01,989 - Fetched order_df and position_df
+2025-05-08 18:33:01,989 - TSLA
+2025-05-08 18:33:03,198 - Checking condition
+2025-05-08 18:33:03,199 - we dont have any position
+2025-05-08 18:33:03,200 - inside strategy
+2025-05-08 18:33:03,202 - buy condiiton satisfied
+2025-05-08 18:33:04,215 - Trade(contract=Stock(conId=76792991, symbol='TSLA', exchange='SMART', primaryExchange='NASDAQ', currency='USD', localSymbol='TSLA', tradingClass='NMS'), order=Order(orderId=8, clientId=2, permId=161700811, action='BUY', totalQuantity=1.0, orderType='MKT', lmtPrice=0.0, auxPrice=0.0, tif='GTC', account='DUH316001'), orderStatus=OrderStatus(orderId=8, status='PreSubmitted', filled=0.0, remaining=1.0, avgFillPrice=0.0, permId=161700811, parentId=0, lastFillPrice=0.0, clientId=2, whyHeld='', mktCapPrice=0.0), fills=[], log=[TradeLogEntry(time=datetime.datetime(2025, 5, 8, 13, 3, 3, 213218, tzinfo=datetime.timezone.utc), status='PendingSubmit', message='', errorCode=0), TradeLogEntry(time=datetime.datetime(2025, 5, 8, 13, 3, 4, 46535, tzinfo=datetime.timezone.utc), status='PreSubmitted', message='', errorCode=0)], advancedError='')
+2025-05-08 18:33:04,216 - Placed market buy order
+2025-05-08 18:33:04,216 - NVDA
+2025-05-08 18:33:04,403 - order filled
+2025-05-08 18:33:04,417 - TSLA BUY  279.59
+2025-05-08 18:33:06,844 - Checking condition
+2025-05-08 18:33:06,845 - we dont have any position
+2025-05-08 18:33:06,845 - inside strategy
+2025-05-08 18:33:06,846 - buy condiiton satisfied
+2025-05-08 18:33:07,158 - order filled
+2025-05-08 18:33:07,173 - NVDA BUY  118.74
+2025-05-08 18:33:07,862 - Trade(contract=Stock(conId=4815747, symbol='NVDA', exchange='SMART', primaryExchange='NASDAQ', currency='USD', localSymbol='NVDA', tradingClass='NMS'), order=Order(orderId=11, clientId=2, permId=161700812, action='BUY', totalQuantity=1.0, orderType='MKT', lmtPrice=0.0, auxPrice=0.0, tif='GTC', account='DUH316001'), orderStatus=OrderStatus(orderId=11, status='Filled', filled=1.0, remaining=0.0, avgFillPrice=118.74, permId=161700812, parentId=0, lastFillPrice=118.74, clientId=2, whyHeld='', mktCapPrice=0.0), fills=[Fill(contract=Stock(conId=4815747, symbol='NVDA', exchange='SMART', primaryExchange='NASDAQ', currency='USD', localSymbol='NVDA', tradingClass='NMS'), execution=Execution(execId='00012ec5.681c5e6b.01.01', time=datetime.datetime(2025, 5, 8, 13, 3, 7, tzinfo=datetime.timezone.utc), acctNumber='DUH316001', exchange='NYSENAT', side='BOT', shares=1.0, price=118.74, permId=161700812, clientId=2, orderId=11, liquidation=0, cumQty=1.0, avgPrice=118.74, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=2, pendingPriceRevision=False), commissionReport=CommissionReport(execId='00012ec5.681c5e6b.01.01', commission=1.000035, currency='USD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0), time=datetime.datetime(2025, 5, 8, 13, 3, 7, 157631, tzinfo=datetime.timezone.utc))], log=[TradeLogEntry(time=datetime.datetime(2025, 5, 8, 13, 3, 6, 858534, tzinfo=datetime.timezone.utc), status='PendingSubmit', message='', errorCode=0), TradeLogEntry(time=datetime.datetime(2025, 5, 8, 13, 3, 7, 138905, tzinfo=datetime.timezone.utc), status='PreSubmitted', message='', errorCode=0), TradeLogEntry(time=datetime.datetime(2025, 5, 8, 13, 3, 7, 157631, tzinfo=datetime.timezone.utc), status='PreSubmitted', message='Fill 1.0@118.74', errorCode=0), TradeLogEntry(time=datetime.datetime(2025, 5, 8, 13, 3, 7, 158329, tzinfo=datetime.timezone.utc), status='Filled', message='', errorCode=0)], advancedError='')
+2025-05-08 18:33:07,864 - Placed market buy order
+2025-05-08 18:33:07,864 - GOOG
+2025-05-08 18:33:09,851 - Checking condition
+2025-05-08 18:33:09,852 - we dont have any position
+2025-05-08 18:33:09,852 - inside strategy
+2025-05-08 18:33:09,852 - no condition satisfied
+2025-05-08 18:34:01,395 - Fetched order_df and position_df
+2025-05-08 18:34:01,397 - TSLA
+2025-05-08 18:34:02,782 - Checking condition
+2025-05-08 18:34:02,782 - NVDA
+2025-05-08 18:34:04,842 - Checking condition
+2025-05-08 18:34:04,842 - GOOG
+2025-05-08 18:34:06,610 - Checking condition
+2025-05-08 18:35:02,108 - Fetched order_df and position_df
+2025-05-08 18:35:02,111 - TSLA
+2025-05-08 18:35:04,472 - Checking condition
+2025-05-08 18:35:04,472 - NVDA
+2025-05-08 18:35:06,780 - Checking condition
+2025-05-08 18:35:06,781 - GOOG
+2025-05-08 18:35:08,618 - Checking condition
+2025-05-08 18:36:02,074 - Fetched order_df and position_df
+2025-05-08 18:36:02,075 - TSLA
+2025-05-08 18:36:03,979 - Checking condition
+2025-05-08 18:36:03,983 - NVDA
+2025-05-08 18:36:05,685 - Checking condition
+2025-05-08 18:36:05,685 - GOOG
+2025-05-08 18:36:07,580 - Checking condition
+2025-05-08 18:37:02,203 - strategy started
+2025-05-08 18:37:03,526 - Checking if start time has been reached
+2025-05-08 18:37:03,527 - Starting the main code
+2025-05-08 18:37:03,529 - Starting the main code with candle size60
+2025-05-08 18:37:35,060 - strategy started
+2025-05-08 18:37:36,478 - Checking if start time has been reached
+2025-05-08 18:37:36,479 - Starting the main code
+2025-05-08 18:37:36,479 - Starting the main code with candle size60
+2025-05-08 18:37:36,519 - Fetched order_df and position_df
+2025-05-08 18:37:36,519 - TSLA
+2025-05-08 18:37:37,595 - Checking condition
+2025-05-08 18:37:37,595 - NVDA
+2025-05-08 18:37:38,928 - Checking condition
+2025-05-08 18:37:38,928 - GOOG
+2025-05-08 18:37:40,160 - Checking condition
+2025-05-08 18:38:01,436 - Fetched order_df and position_df
+2025-05-08 18:38:01,438 - TSLA
+2025-05-08 18:38:03,897 - Checking condition
+2025-05-08 18:38:03,897 - NVDA
+2025-05-08 18:38:05,940 - Checking condition
+2025-05-08 18:38:05,940 - GOOG
+2025-05-08 18:38:07,520 - Checking condition
+2025-05-08 18:41:53,700 - strategy started
+2025-05-08 18:41:54,858 - Checking if start time has been reached
+2025-05-08 18:41:54,858 - Starting the main code
+2025-05-08 18:41:54,858 - Starting the main code with candle size60
+2025-05-08 18:41:54,883 - Fetched order_df and position_df
+2025-05-08 18:41:54,884 - TSLA
+2025-05-08 18:41:58,056 - Checking condition
+2025-05-08 18:41:58,104 - NVDA
+2025-05-08 18:41:59,594 - Checking condition
+2025-05-08 18:41:59,594 - GOOG
+2025-05-08 18:42:00,875 - Checking condition
+2025-05-08 18:42:00,875 - we have some position but current ticker is not in position
+2025-05-08 18:42:00,875 - inside strategy
+2025-05-08 18:42:00,875 - buy condiiton satisfied
+2025-05-08 18:42:01,179 - order filled
+2025-05-08 18:42:01,189 - GOOG BUY  156.72
+2025-05-08 18:42:01,879 - Trade(contract=Stock(conId=208813720, symbol='GOOG', exchange='SMART', primaryExchange='NASDAQ', currency='USD', localSymbol='GOOG', tradingClass='NMS'), order=Order(orderId=23, clientId=2, permId=161700819, action='BUY', totalQuantity=1.0, orderType='MKT', lmtPrice=0.0, auxPrice=0.0, tif='GTC', account='DUH316001'), orderStatus=OrderStatus(orderId=23, status='Filled', filled=1.0, remaining=0.0, avgFillPrice=156.72, permId=161700819, parentId=0, lastFillPrice=156.72, clientId=2, whyHeld='', mktCapPrice=0.0), fills=[Fill(contract=Stock(conId=208813720, symbol='GOOG', exchange='SMART', primaryExchange='NASDAQ', currency='USD', localSymbol='GOOG', tradingClass='NMS'), execution=Execution(execId='00012ec5.681c5edc.01.01', time=datetime.datetime(2025, 5, 8, 13, 12, 1, tzinfo=datetime.timezone.utc), acctNumber='DUH316001', exchange='NYSENAT', side='BOT', shares=1.0, price=156.72, permId=161700819, clientId=2, orderId=23, liquidation=0, cumQty=1.0, avgPrice=156.72, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=2, pendingPriceRevision=False), commissionReport=CommissionReport(execId='00012ec5.681c5edc.01.01', commission=1.000035, currency='USD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0), time=datetime.datetime(2025, 5, 8, 13, 12, 1, 178215, tzinfo=datetime.timezone.utc))], log=[TradeLogEntry(time=datetime.datetime(2025, 5, 8, 13, 12, 0, 877454, tzinfo=datetime.timezone.utc), status='PendingSubmit', message='', errorCode=0), TradeLogEntry(time=datetime.datetime(2025, 5, 8, 13, 12, 1, 171731, tzinfo=datetime.timezone.utc), status='Submitted', message='', errorCode=0), TradeLogEntry(time=datetime.datetime(2025, 5, 8, 13, 12, 1, 178215, tzinfo=datetime.timezone.utc), status='Submitted', message='Fill 1.0@156.72', errorCode=0), TradeLogEntry(time=datetime.datetime(2025, 5, 8, 13, 12, 1, 178855, tzinfo=datetime.timezone.utc), status='Filled', message='', errorCode=0)], advancedError='')
+2025-05-08 18:42:01,879 - Placed market buy order
+2025-05-08 18:42:01,984 - Fetched order_df and position_df
+2025-05-08 18:42:01,985 - TSLA
+2025-05-08 18:42:03,819 - Checking condition
+2025-05-08 18:42:03,819 - NVDA
+2025-05-08 18:42:05,678 - Checking condition
+2025-05-08 18:42:05,685 - GOOG
+2025-05-08 18:42:07,379 - Checking condition
+2025-05-08 18:43:01,779 - Fetched order_df and position_df
+2025-05-08 18:43:01,789 - TSLA
+2025-05-08 18:43:03,541 - Checking condition
+2025-05-08 18:43:03,542 - NVDA
+2025-05-08 18:43:05,236 - Checking condition
+2025-05-08 18:43:05,237 - GOOG
+2025-05-08 18:43:07,347 - Checking condition
+2025-05-08 18:44:01,590 - Fetched order_df and position_df
+2025-05-08 18:44:01,593 - TSLA
+2025-05-08 18:44:02,922 - Checking condition
+2025-05-08 18:44:02,922 - NVDA
+2025-05-08 18:44:04,206 - Checking condition
+2025-05-08 18:44:04,206 - GOOG
+2025-05-08 18:44:05,610 - Checking condition
+2025-05-08 18:45:01,099 - Fetched order_df and position_df
+2025-05-08 18:45:01,101 - TSLA
+2025-05-08 18:45:02,471 - Checking condition
+2025-05-08 18:45:02,478 - NVDA
+2025-05-08 18:45:03,622 - Checking condition
+2025-05-08 18:45:03,622 - GOOG
+2025-05-08 18:45:05,103 - Checking condition
+2025-05-08 18:46:02,238 - Fetched order_df and position_df
+2025-05-08 18:46:02,242 - TSLA
+2025-05-08 18:46:03,777 - Checking condition
+2025-05-08 18:46:03,777 - NVDA
+2025-05-08 18:46:04,961 - Checking condition
+2025-05-08 18:46:04,962 - GOOG
+2025-05-08 18:46:06,281 - Checking condition
+2025-05-08 18:47:01,576 - Fetched order_df and position_df
+2025-05-08 18:47:01,582 - TSLA
+2025-05-08 18:47:03,438 - Checking condition
+2025-05-08 18:47:03,438 - NVDA
+2025-05-08 18:47:05,243 - Checking condition
+2025-05-08 18:47:05,272 - GOOG
+2025-05-08 18:47:07,245 - Checking condition
+2025-05-08 18:48:41,444 - strategy started
+2025-05-08 18:48:43,214 - Checking if start time has been reached
+2025-05-08 18:48:43,214 - Starting the main code
+2025-05-08 18:48:43,215 - Starting the main code with candle size60
+2025-05-08 18:48:43,304 - Fetched order_df and position_df
+2025-05-08 18:48:43,312 - TSLA
+2025-05-08 18:48:44,773 - Checking condition
+2025-05-08 18:48:44,773 - we have some position and current ticker is in position
+2025-05-08 18:48:44,774 - we have current ticker in position and is long
+2025-05-08 18:48:44,774 - sell condition satisfied
+2025-05-08 18:49:32,087 - strategy started
+2025-05-08 18:49:33,269 - Checking if start time has been reached
+2025-05-08 18:49:33,269 - Starting the main code
+2025-05-08 18:49:33,269 - Starting the main code with candle size60
+2025-05-08 18:49:33,287 - Fetched order_df and position_df
+2025-05-08 18:49:33,287 - TSLA
+2025-05-08 18:49:34,933 - Checking condition
+2025-05-08 18:49:34,933 - we have some position and current ticker is in position
+2025-05-08 18:49:35,052 - we have current ticker in position and is long
+2025-05-08 18:49:35,053 - sell condition satisfied
+2025-05-08 18:49:35,062 - Closing positionSELLTSLA
+2025-05-08 18:49:35,063 - inside strategy
+2025-05-08 18:49:35,064 - no condition satisfied
+2025-05-08 18:49:35,064 - NVDA
+2025-05-08 18:49:35,413 - order filled
+2025-05-08 18:49:35,428 - TSLA SELL  279.56
+2025-05-08 18:49:37,182 - Checking condition
+2025-05-08 18:49:37,183 - we have some position and current ticker is in position
+2025-05-08 18:49:37,184 - we have current ticker in position and is long
+2025-05-08 18:49:37,185 - sell condition satisfied
+2025-05-08 18:49:37,192 - Closing positionSELLNVDA
+2025-05-08 18:49:37,192 - inside strategy
+2025-05-08 18:49:37,193 - no condition satisfied
+2025-05-08 18:49:37,193 - GOOG
+2025-05-08 18:49:37,609 - order filled
+2025-05-08 18:49:37,621 - NVDA SELL  118.65
+2025-05-08 18:49:39,180 - Checking condition
+2025-05-08 18:49:39,180 - we have some position and current ticker is in position
+2025-05-08 18:49:39,181 - we have current ticker in position and is long
+2025-05-08 18:49:39,182 - sell condition satisfied
+2025-05-08 18:49:39,192 - Closing positionSELLGOOG
+2025-05-08 18:49:39,192 - inside strategy
+2025-05-08 18:49:39,193 - no condition satisfied
+2025-05-08 18:50:01,370 - order filled
+2025-05-08 18:50:01,390 - GOOG SELL  156.5
+2025-05-08 18:50:01,431 - Fetched order_df and position_df
+2025-05-08 18:50:01,431 - TSLA
+2025-05-08 18:50:02,825 - Checking condition
+2025-05-08 18:50:02,826 - we have some position but current ticker is not in position
+2025-05-08 18:50:02,826 - inside strategy
+2025-05-08 18:50:02,827 - no condition satisfied
+2025-05-08 18:50:02,828 - NVDA
+2025-05-08 18:50:04,460 - Checking condition
+2025-05-08 18:50:04,461 - we have some position but current ticker is not in position
+2025-05-08 18:50:04,461 - inside strategy
+2025-05-08 18:50:04,462 - no condition satisfied
+2025-05-08 18:50:04,462 - GOOG
+2025-05-08 18:50:06,030 - Checking condition
+2025-05-08 18:50:06,030 - we have some position and current ticker is in position
+2025-05-08 18:50:06,050 - we have current ticker in position and is long
+2025-05-08 18:50:06,051 - sell condition satisfied
+2025-05-08 18:50:06,051 - inside strategy
+2025-05-08 18:50:06,051 - no condition satisfied
+2025-05-08 18:50:38,558 - strategy started
+2025-05-08 18:50:40,038 - Checking if start time has been reached
+2025-05-08 18:50:40,039 - Starting the main code
+2025-05-08 18:50:40,039 - Starting the main code with candle size60
+2025-05-08 18:50:40,044 - Fetched order_df and position_df
+2025-05-08 18:50:40,044 - TSLA
+2025-05-08 18:50:41,331 - Checking condition
+2025-05-08 18:50:41,331 - we dont have any position
+2025-05-08 18:50:41,331 - inside strategy
+2025-05-08 18:50:41,331 - buy condiiton satisfied
+2025-05-08 18:50:41,597 - order filled
+2025-05-08 18:50:41,606 - TSLA BUY  279.71
+2025-05-08 18:50:42,335 - Trade(contract=Stock(conId=76792991, symbol='TSLA', exchange='SMART', primaryExchange='NASDAQ', currency='USD', localSymbol='TSLA', tradingClass='NMS'), order=Order(orderId=45, clientId=2, permId=161700835, action='BUY', totalQuantity=1.0, orderType='MKT', lmtPrice=280.09, auxPrice=0.0, tif='GTC', account='DUH316001'), orderStatus=OrderStatus(orderId=45, status='Filled', filled=1.0, remaining=0.0, avgFillPrice=279.71, permId=161700835, parentId=0, lastFillPrice=279.71, clientId=2, whyHeld='', mktCapPrice=0.0), fills=[Fill(contract=Stock(conId=76792991, symbol='TSLA', exchange='SMART', primaryExchange='NASDAQ', currency='USD', localSymbol='TSLA', tradingClass='NMS'), execution=Execution(execId='00012ec5.681c6009.01.01', time=datetime.datetime(2025, 5, 8, 13, 20, 41, tzinfo=datetime.timezone.utc), acctNumber='DUH316001', exchange='NYSENAT', side='BOT', shares=1.0, price=279.71, permId=161700835, clientId=2, orderId=45, liquidation=0, cumQty=1.0, avgPrice=279.71, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=2, pendingPriceRevision=False), commissionReport=CommissionReport(execId='00012ec5.681c6009.01.01', commission=1.000035, currency='USD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0), time=datetime.datetime(2025, 5, 8, 13, 20, 41, 596064, tzinfo=datetime.timezone.utc))], log=[TradeLogEntry(time=datetime.datetime(2025, 5, 8, 13, 20, 41, 332850, tzinfo=datetime.timezone.utc), status='PendingSubmit', message='', errorCode=0), TradeLogEntry(time=datetime.datetime(2025, 5, 8, 13, 20, 41, 590163, tzinfo=datetime.timezone.utc), status='PreSubmitted', message='', errorCode=0), TradeLogEntry(time=datetime.datetime(2025, 5, 8, 13, 20, 41, 596064, tzinfo=datetime.timezone.utc), status='PreSubmitted', message='Fill 1.0@279.71', errorCode=0), TradeLogEntry(time=datetime.datetime(2025, 5, 8, 13, 20, 41, 596584, tzinfo=datetime.timezone.utc), status='Filled', message='', errorCode=0)], advancedError='')
+2025-05-08 18:50:42,336 - Placed market buy order
+2025-05-08 18:50:42,337 - NVDA
+2025-05-08 18:50:44,072 - Checking condition
+2025-05-08 18:50:44,073 - we dont have any position
+2025-05-08 18:50:44,079 - inside strategy
+2025-05-08 18:50:44,095 - buy condiiton satisfied
+2025-05-08 18:50:44,660 - order filled
+2025-05-08 18:50:44,677 - NVDA BUY  118.62
+2025-05-08 18:50:45,116 - Trade(contract=Stock(conId=4815747, symbol='NVDA', exchange='SMART', primaryExchange='NASDAQ', currency='USD', localSymbol='NVDA', tradingClass='NMS'), order=Order(orderId=48, clientId=2, permId=161700836, action='BUY', totalQuantity=1.0, orderType='MKT', lmtPrice=118.99, auxPrice=0.0, tif='GTC', account='DUH316001'), orderStatus=OrderStatus(orderId=48, status='Filled', filled=1.0, remaining=0.0, avgFillPrice=118.62, permId=161700836, parentId=0, lastFillPrice=118.62, clientId=2, whyHeld='', mktCapPrice=0.0), fills=[Fill(contract=Stock(conId=4815747, symbol='NVDA', exchange='SMART', primaryExchange='NASDAQ', currency='USD', localSymbol='NVDA', tradingClass='NMS'), execution=Execution(execId='00012ec5.681c600b.01.01', time=datetime.datetime(2025, 5, 8, 13, 20, 44, tzinfo=datetime.timezone.utc), acctNumber='DUH316001', exchange='NYSENAT', side='BOT', shares=1.0, price=118.62, permId=161700836, clientId=2, orderId=48, liquidation=0, cumQty=1.0, avgPrice=118.62, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=2, pendingPriceRevision=False), commissionReport=CommissionReport(execId='00012ec5.681c600b.01.01', commission=1.000035, currency='USD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0), time=datetime.datetime(2025, 5, 8, 13, 20, 44, 659526, tzinfo=datetime.timezone.utc))], log=[TradeLogEntry(time=datetime.datetime(2025, 5, 8, 13, 20, 44, 109938, tzinfo=datetime.timezone.utc), status='PendingSubmit', message='', errorCode=0), TradeLogEntry(time=datetime.datetime(2025, 5, 8, 13, 20, 44, 529382, tzinfo=datetime.timezone.utc), status='PreSubmitted', message='', errorCode=0), TradeLogEntry(time=datetime.datetime(2025, 5, 8, 13, 20, 44, 659526, tzinfo=datetime.timezone.utc), status='PreSubmitted', message='Fill 1.0@118.62', errorCode=0), TradeLogEntry(time=datetime.datetime(2025, 5, 8, 13, 20, 44, 659526, tzinfo=datetime.timezone.utc), status='Filled', message='', errorCode=0)], advancedError='')
+2025-05-08 18:50:45,118 - Placed market buy order
+2025-05-08 18:50:45,119 - GOOG
+2025-05-08 18:50:46,548 - Checking condition
+2025-05-08 18:50:46,548 - we dont have any position
+2025-05-08 18:50:46,551 - inside strategy
+2025-05-08 18:50:46,552 - no condition satisfied
+2025-05-08 18:51:01,723 - Fetched order_df and position_df
+2025-05-08 18:51:01,724 - TSLA
+2025-05-08 18:51:02,852 - Checking condition
+2025-05-08 18:51:02,852 - we have some position and current ticker is in position
+2025-05-08 18:51:02,854 - we have current ticker in position and is long
+2025-05-08 18:51:02,854 - NVDA
+2025-05-08 18:51:04,261 - Checking condition
+2025-05-08 18:51:04,261 - we have some position and current ticker is in position
+2025-05-08 18:51:04,264 - we have current ticker in position and is long
+2025-05-08 18:51:04,297 - GOOG
+2025-05-08 18:51:07,141 - Checking condition
+2025-05-08 18:51:07,141 - we have some position but current ticker is not in position
+2025-05-08 18:51:07,141 - inside strategy
+2025-05-08 18:51:07,142 - no condition satisfied
+2025-05-08 18:51:24,836 - strategy started
+2025-05-08 18:51:29,476 - Checking if start time has been reached
+2025-05-08 18:51:29,477 - Starting the main code
+2025-05-08 18:51:29,477 - Starting the main code with candle size60
+2025-05-08 18:51:29,489 - Fetched order_df and position_df
+2025-05-08 18:51:29,489 - TSLA
+2025-05-08 18:51:30,905 - Checking condition
+2025-05-08 18:51:30,905 - we have some position and current ticker is in position
+2025-05-08 18:51:30,907 - we have current ticker in position and is long
+2025-05-08 18:51:30,908 - NVDA
+2025-05-08 18:51:32,187 - Checking condition
+2025-05-08 18:51:32,187 - we have some position and current ticker is in position
+2025-05-08 18:51:32,188 - we have current ticker in position and is long
+2025-05-08 18:51:32,188 - GOOG
+2025-05-08 18:51:33,378 - Checking condition
+2025-05-08 18:51:33,378 - we have some position but current ticker is not in position
+2025-05-08 18:51:33,378 - inside strategy
+2025-05-08 18:51:33,378 - no condition satisfied
+2025-05-08 18:51:33,378 - AMZN
+2025-05-08 18:51:34,756 - Checking condition
+2025-05-08 18:51:34,757 - we have some position but current ticker is not in position
+2025-05-08 18:51:34,757 - inside strategy
+2025-05-08 18:51:34,757 - buy condiiton satisfied
+2025-05-08 18:51:35,029 - order filled
+2025-05-08 18:51:35,035 - AMZN BUY  191.71
+2025-05-08 18:51:35,761 - Trade(contract=Stock(conId=3691937, symbol='AMZN', exchange='SMART', primaryExchange='NASDAQ', currency='USD', localSymbol='AMZN', tradingClass='NMS'), order=Order(orderId=67, clientId=2, permId=161700845, action='BUY', totalQuantity=1.0, orderType='MKT', lmtPrice=0.0, auxPrice=0.0, tif='GTC', account='DUH316001'), orderStatus=OrderStatus(orderId=67, status='Filled', filled=1.0, remaining=0.0, avgFillPrice=191.71, permId=161700845, parentId=0, lastFillPrice=191.71, clientId=2, whyHeld='', mktCapPrice=0.0), fills=[Fill(contract=Stock(conId=3691937, symbol='AMZN', exchange='SMART', primaryExchange='NASDAQ', currency='USD', localSymbol='AMZN', tradingClass='NMS'), execution=Execution(execId='00012ec5.681c6035.01.01', time=datetime.datetime(2025, 5, 8, 13, 21, 35, tzinfo=datetime.timezone.utc), acctNumber='DUH316001', exchange='NYSENAT', side='BOT', shares=1.0, price=191.71, permId=161700845, clientId=2, orderId=67, liquidation=0, cumQty=1.0, avgPrice=191.71, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=2, pendingPriceRevision=False), commissionReport=CommissionReport(execId='00012ec5.681c6035.01.01', commission=1.000035, currency='USD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0), time=datetime.datetime(2025, 5, 8, 13, 21, 35, 25625, tzinfo=datetime.timezone.utc))], log=[TradeLogEntry(time=datetime.datetime(2025, 5, 8, 13, 21, 34, 758986, tzinfo=datetime.timezone.utc), status='PendingSubmit', message='', errorCode=0), TradeLogEntry(time=datetime.datetime(2025, 5, 8, 13, 21, 35, 15616, tzinfo=datetime.timezone.utc), status='Submitted', message='', errorCode=0), TradeLogEntry(time=datetime.datetime(2025, 5, 8, 13, 21, 35, 25625, tzinfo=datetime.timezone.utc), status='Submitted', message='Fill 1.0@191.71', errorCode=0), TradeLogEntry(time=datetime.datetime(2025, 5, 8, 13, 21, 35, 28253, tzinfo=datetime.timezone.utc), status='Filled', message='', errorCode=0)], advancedError='')
+2025-05-08 18:51:35,761 - Placed market buy order
+2025-05-08 18:51:35,762 - AAPL
+2025-05-08 18:51:37,663 - Checking condition
+2025-05-08 18:51:37,663 - we have some position but current ticker is not in position
+2025-05-08 18:51:37,663 - inside strategy
+2025-05-08 18:51:37,664 - no condition satisfied
+2025-05-08 18:51:37,664 - META
+2025-05-08 18:51:39,353 - Checking condition
+2025-05-08 18:51:39,353 - we have some position but current ticker is not in position
+2025-05-08 18:51:39,353 - inside strategy
+2025-05-08 18:51:39,354 - buy condiiton satisfied
+2025-05-08 18:51:39,759 - order filled
+2025-05-08 18:51:39,763 - META BUY  607.6
+2025-05-08 18:51:40,357 - Trade(contract=Stock(conId=107113386, symbol='META', exchange='SMART', primaryExchange='NASDAQ', currency='USD', localSymbol='META', tradingClass='NMS'), order=Order(orderId=72, clientId=2, permId=161700846, action='BUY', totalQuantity=1.0, orderType='MKT', lmtPrice=0.0, auxPrice=0.0, tif='GTC', account='DUH316001'), orderStatus=OrderStatus(orderId=72, status='Filled', filled=1.0, remaining=0.0, avgFillPrice=607.6, permId=161700846, parentId=0, lastFillPrice=607.6, clientId=2, whyHeld='', mktCapPrice=0.0), fills=[Fill(contract=Stock(conId=107113386, symbol='META', exchange='SMART', primaryExchange='NASDAQ', currency='USD', localSymbol='META', tradingClass='NMS'), execution=Execution(execId='00012ec5.681c604d.01.01', time=datetime.datetime(2025, 5, 8, 13, 21, 39, tzinfo=datetime.timezone.utc), acctNumber='DUH316001', exchange='NYSENAT', side='BOT', shares=1.0, price=607.6, permId=161700846, clientId=2, orderId=72, liquidation=0, cumQty=1.0, avgPrice=607.6, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=2, pendingPriceRevision=False), commissionReport=CommissionReport(execId='00012ec5.681c604d.01.01', commission=1.000035, currency='USD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0), time=datetime.datetime(2025, 5, 8, 13, 21, 39, 758100, tzinfo=datetime.timezone.utc))], log=[TradeLogEntry(time=datetime.datetime(2025, 5, 8, 13, 21, 39, 355825, tzinfo=datetime.timezone.utc), status='PendingSubmit', message='', errorCode=0), TradeLogEntry(time=datetime.datetime(2025, 5, 8, 13, 21, 39, 751509, tzinfo=datetime.timezone.utc), status='Submitted', message='', errorCode=0), TradeLogEntry(time=datetime.datetime(2025, 5, 8, 13, 21, 39, 758100, tzinfo=datetime.timezone.utc), status='Submitted', message='Fill 1.0@607.6', errorCode=0), TradeLogEntry(time=datetime.datetime(2025, 5, 8, 13, 21, 39, 758587, tzinfo=datetime.timezone.utc), status='Filled', message='', errorCode=0)], advancedError='')
+2025-05-08 18:51:40,358 - Placed market buy order
+2025-05-08 18:51:40,358 - NFLX
+2025-05-08 18:51:41,892 - Checking condition
+2025-05-08 18:51:41,892 - we have some position but current ticker is not in position
+2025-05-08 18:51:41,892 - inside strategy
+2025-05-08 18:51:41,892 - buy condiiton satisfied
+2025-05-08 18:51:42,126 - order filled
+2025-05-08 18:51:42,130 - NFLX BUY  1163.99
+2025-05-08 18:51:42,894 - Trade(contract=Stock(conId=15124833, symbol='NFLX', exchange='SMART', primaryExchange='NASDAQ', currency='USD', localSymbol='NFLX', tradingClass='NMS'), order=Order(orderId=75, clientId=2, permId=161700847, action='BUY', totalQuantity=1.0, orderType='MKT', lmtPrice=0.0, auxPrice=0.0, tif='GTC', account='DUH316001'), orderStatus=OrderStatus(orderId=75, status='Filled', filled=1.0, remaining=0.0, avgFillPrice=1163.99, permId=161700847, parentId=0, lastFillPrice=1163.99, clientId=2, whyHeld='', mktCapPrice=0.0), fills=[Fill(contract=Stock(conId=15124833, symbol='NFLX', exchange='SMART', primaryExchange='NASDAQ', currency='USD', localSymbol='NFLX', tradingClass='NMS'), execution=Execution(execId='00012ec5.681c604e.01.01', time=datetime.datetime(2025, 5, 8, 13, 21, 42, tzinfo=datetime.timezone.utc), acctNumber='DUH316001', exchange='NYSENAT', side='BOT', shares=1.0, price=1163.99, permId=161700847, clientId=2, orderId=75, liquidation=0, cumQty=1.0, avgPrice=1163.99, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=2, pendingPriceRevision=False), commissionReport=CommissionReport(execId='00012ec5.681c604e.01.01', commission=1.000035, currency='USD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0), time=datetime.datetime(2025, 5, 8, 13, 21, 42, 125633, tzinfo=datetime.timezone.utc))], log=[TradeLogEntry(time=datetime.datetime(2025, 5, 8, 13, 21, 41, 893997, tzinfo=datetime.timezone.utc), status='PendingSubmit', message='', errorCode=0), TradeLogEntry(time=datetime.datetime(2025, 5, 8, 13, 21, 42, 118292, tzinfo=datetime.timezone.utc), status='Submitted', message='', errorCode=0), TradeLogEntry(time=datetime.datetime(2025, 5, 8, 13, 21, 42, 125633, tzinfo=datetime.timezone.utc), status='Submitted', message='Fill 1.0@1163.99', errorCode=0), TradeLogEntry(time=datetime.datetime(2025, 5, 8, 13, 21, 42, 125633, tzinfo=datetime.timezone.utc), status='Filled', message='', errorCode=0)], advancedError='')
+2025-05-08 18:51:42,895 - Placed market buy order
+2025-05-08 18:51:42,895 - MSFT
+2025-05-08 18:51:44,384 - Checking condition
+2025-05-08 18:51:44,384 - we have some position but current ticker is not in position
+2025-05-08 18:51:44,384 - inside strategy
+2025-05-08 18:51:44,384 - buy condiiton satisfied
+2025-05-08 18:51:44,660 - order filled
+2025-05-08 18:51:44,665 - MSFT BUY  436.4
+2025-05-08 18:51:45,387 - Trade(contract=Stock(conId=272093, symbol='MSFT', exchange='SMART', primaryExchange='NASDAQ', currency='USD', localSymbol='MSFT', tradingClass='NMS'), order=Order(orderId=78, clientId=2, permId=161700848, action='BUY', totalQuantity=1.0, orderType='MKT', lmtPrice=0.0, auxPrice=0.0, tif='GTC', account='DUH316001'), orderStatus=OrderStatus(orderId=78, status='Filled', filled=1.0, remaining=0.0, avgFillPrice=436.4, permId=161700848, parentId=0, lastFillPrice=436.4, clientId=2, whyHeld='', mktCapPrice=0.0), fills=[Fill(contract=Stock(conId=272093, symbol='MSFT', exchange='SMART', primaryExchange='NASDAQ', currency='USD', localSymbol='MSFT', tradingClass='NMS'), execution=Execution(execId='00012ec5.681c6050.01.01', time=datetime.datetime(2025, 5, 8, 13, 21, 44, tzinfo=datetime.timezone.utc), acctNumber='DUH316001', exchange='NYSENAT', side='BOT', shares=1.0, price=436.4, permId=161700848, clientId=2, orderId=78, liquidation=0, cumQty=1.0, avgPrice=436.4, orderRef='', evRule='', evMultiplier=0.0, modelCode='', lastLiquidity=2, pendingPriceRevision=False), commissionReport=CommissionReport(execId='00012ec5.681c6050.01.01', commission=1.000035, currency='USD', realizedPNL=0.0, yield_=0.0, yieldRedemptionDate=0), time=datetime.datetime(2025, 5, 8, 13, 21, 44, 658500, tzinfo=datetime.timezone.utc))], log=[TradeLogEntry(time=datetime.datetime(2025, 5, 8, 13, 21, 44, 385706, tzinfo=datetime.timezone.utc), status='PendingSubmit', message='', errorCode=0), TradeLogEntry(time=datetime.datetime(2025, 5, 8, 13, 21, 44, 654131, tzinfo=datetime.timezone.utc), status='Submitted', message='', errorCode=0), TradeLogEntry(time=datetime.datetime(2025, 5, 8, 13, 21, 44, 658500, tzinfo=datetime.timezone.utc), status='Submitted', message='Fill 1.0@436.4', errorCode=0), TradeLogEntry(time=datetime.datetime(2025, 5, 8, 13, 21, 44, 659996, tzinfo=datetime.timezone.utc), status='Filled', message='', errorCode=0)], advancedError='')
+2025-05-08 18:51:45,387 - Placed market buy order
+2025-05-08 18:52:01,469 - Fetched order_df and position_df
+2025-05-08 18:52:01,470 - TSLA
+2025-05-08 18:52:03,545 - Checking condition
+2025-05-08 18:52:03,546 - we have some position and current ticker is in position
+2025-05-08 18:52:03,549 - we have current ticker in position and is long
+2025-05-08 18:52:03,551 - NVDA
+2025-05-08 18:52:05,090 - Checking condition
+2025-05-08 18:52:05,090 - we have some position and current ticker is in position
+2025-05-08 18:52:05,095 - we have current ticker in position and is long
+2025-05-08 18:52:05,096 - GOOG
+2025-05-08 18:52:06,439 - Checking condition
+2025-05-08 18:52:06,440 - we have some position but current ticker is not in position
+2025-05-08 18:52:06,440 - inside strategy
+2025-05-08 18:52:06,440 - no condition satisfied
+2025-05-08 18:52:06,440 - AMZN
+2025-05-08 18:52:07,585 - Checking condition
+2025-05-08 18:52:07,585 - we have some position and current ticker is in position
+2025-05-08 18:52:07,586 - we have current ticker in position and is long
+2025-05-08 18:52:07,586 - AAPL
+2025-05-08 18:52:08,879 - Checking condition
+2025-05-08 18:52:08,880 - we have some position but current ticker is not in position
+2025-05-08 18:52:08,880 - inside strategy
+2025-05-08 18:52:08,881 - no condition satisfied
+2025-05-08 18:52:08,882 - META
+2025-05-08 18:52:10,066 - Checking condition
+2025-05-08 18:52:10,067 - we have some position and current ticker is in position
+2025-05-08 18:52:10,067 - we have current ticker in position and is long
+2025-05-08 18:52:10,068 - NFLX
+2025-05-08 18:52:11,242 - Checking condition
+2025-05-08 18:52:11,242 - we have some position and current ticker is in position
+2025-05-08 18:52:11,242 - we have current ticker in position and is long
+2025-05-08 18:52:11,242 - MSFT
+2025-05-08 18:52:12,395 - Checking condition
+2025-05-08 18:52:12,395 - we have some position and current ticker is in position
+2025-05-08 18:52:12,395 - we have current ticker in position and is long
+2025-05-08 18:53:02,927 - Fetched order_df and position_df
+2025-05-08 18:53:02,953 - TSLA
+2025-05-08 18:53:04,870 - Checking condition
+2025-05-08 18:53:04,871 - we have some position and current ticker is in position
+2025-05-08 18:53:04,886 - we have current ticker in position and is long
+2025-05-08 18:53:04,888 - NVDA
+2025-05-08 18:53:06,416 - Checking condition
+2025-05-08 18:53:06,416 - we have some position and current ticker is in position
+2025-05-08 18:53:06,418 - we have current ticker in position and is long
+2025-05-08 18:53:06,419 - GOOG
+2025-05-08 18:53:07,977 - Checking condition
+2025-05-08 18:53:07,978 - we have some position but current ticker is not in position
+2025-05-08 18:53:07,985 - inside strategy
+2025-05-08 18:53:07,986 - no condition satisfied
+2025-05-08 18:53:07,986 - AMZN
+2025-05-08 18:53:09,253 - Checking condition
+2025-05-08 18:53:09,253 - we have some position and current ticker is in position
+2025-05-08 18:53:09,254 - we have current ticker in position and is long
+2025-05-08 18:53:09,254 - AAPL
+2025-05-08 18:53:10,534 - Checking condition
+2025-05-08 18:53:10,534 - we have some position but current ticker is not in position
+2025-05-08 18:53:10,534 - inside strategy
+2025-05-08 18:53:10,535 - no condition satisfied
+2025-05-08 18:53:10,535 - META
+2025-05-08 18:53:11,836 - Checking condition
+2025-05-08 18:53:11,837 - we have some position and current ticker is in position
+2025-05-08 18:53:11,841 - we have current ticker in position and is long
+2025-05-08 18:53:11,843 - NFLX
+2025-05-08 18:53:13,371 - Checking condition
+2025-05-08 18:53:13,371 - we have some position and current ticker is in position
+2025-05-08 18:53:13,373 - we have current ticker in position and is long
+2025-05-08 18:53:13,373 - MSFT
+2025-05-08 18:53:15,141 - Checking condition
+2025-05-08 18:53:15,141 - we have some position and current ticker is in position
+2025-05-08 18:53:15,142 - we have current ticker in position and is long
+2025-05-08 18:53:30,854 - strategy started
+2025-05-08 18:53:33,724 - Checking if start time has been reached
+2025-05-08 18:53:33,724 - Starting the main code
+2025-05-08 18:53:33,724 - Starting the main code with candle size60
+2025-05-08 18:53:33,738 - Fetched order_df and position_df
+2025-05-08 18:53:33,738 - TSLA
+2025-05-08 18:53:35,011 - Checking condition
+2025-05-08 18:53:35,011 - we have some position and current ticker is in position
+2025-05-08 18:53:35,013 - we have current ticker in position and is long
+2025-05-08 18:53:35,013 - NVDA
+2025-05-08 18:53:36,208 - Checking condition
+2025-05-08 18:53:36,209 - we have some position and current ticker is in position
+2025-05-08 18:53:36,209 - we have current ticker in position and is long
+2025-05-08 18:53:36,209 - GOOG
+2025-05-08 18:53:37,424 - Checking condition
+2025-05-08 18:53:37,424 - we have some position but current ticker is not in position
+2025-05-08 18:53:37,424 - inside strategy
+2025-05-08 18:53:37,424 - no condition satisfied
+2025-05-08 18:53:37,424 - AMZN
+2025-05-08 18:53:38,663 - Checking condition
+2025-05-08 18:53:38,663 - we have some position and current ticker is in position
+2025-05-08 18:53:38,664 - we have current ticker in position and is long
+2025-05-08 18:53:38,664 - AAPL
+2025-05-08 18:53:40,015 - Checking condition
+2025-05-08 18:53:40,015 - we have some position but current ticker is not in position
+2025-05-08 18:53:40,015 - inside strategy
+2025-05-08 18:53:40,018 - no condition satisfied
+2025-05-08 18:53:40,018 - META
+2025-05-08 18:53:41,389 - Checking condition
+2025-05-08 18:53:41,390 - we have some position and current ticker is in position
+2025-05-08 18:53:41,391 - we have current ticker in position and is long
+2025-05-08 18:53:41,392 - NFLX
+2025-05-08 18:53:42,766 - Checking condition
+2025-05-08 18:53:42,767 - we have some position and current ticker is in position
+2025-05-08 18:53:42,769 - we have current ticker in position and is long
+2025-05-08 18:53:42,772 - MSFT
+2025-05-08 18:53:44,166 - Checking condition
+2025-05-08 18:53:44,167 - we have some position and current ticker is in position
+2025-05-08 18:53:44,171 - we have current ticker in position and is long
+2025-05-08 18:53:44,171 - LNTH
+2025-05-08 18:53:45,331 - Checking condition
+2025-05-08 18:53:45,331 - we have some position but current ticker is not in position
+2025-05-08 18:53:45,331 - inside strategy
+2025-05-08 18:53:45,332 - no condition satisfied
+2025-05-08 18:54:01,430 - Fetched order_df and position_df
+2025-05-08 18:54:01,431 - TSLA
+2025-05-08 18:54:02,609 - Checking condition
+2025-05-08 18:54:02,609 - we have some position and current ticker is in position
+2025-05-08 18:54:02,610 - we have current ticker in position and is long
+2025-05-08 18:54:02,610 - NVDA
+2025-05-08 18:54:04,035 - Checking condition
+2025-05-08 18:54:04,035 - we have some position and current ticker is in position
+2025-05-08 18:54:04,037 - we have current ticker in position and is long
+2025-05-08 18:54:04,038 - GOOG
